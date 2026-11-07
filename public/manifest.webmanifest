@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "SYSTEM — Solo Leveling Real-Life Quest & Reward",
+  "short_name": "SYSTEM",
+  "description": "Solo Leveling real-life quests, stats, and task-gated reward vault mobile app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050810",
+  "theme_color": "#050810",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
